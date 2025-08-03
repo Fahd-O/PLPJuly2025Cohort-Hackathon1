@@ -106,11 +106,16 @@ footer
 /* ============ Responsive Design for Mobile Devices ============ */
 @media (max-width: 553px)
 {
+	nav
+	{
+		gap: 0;
+	}
+
 	nav a
 	{
-		margin: 8px 0;
+		margin: 3px 0;
 		font-size: 1.1rem;
-		flex: 1 1 calc(33.33% - 10px); /* 3 items per row */
+		flex: 1 1 calc(33.33% - 10px); /* 3 items per row in the navigation bar */
 		text-align: center;
 	}
 
