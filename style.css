@@ -84,12 +84,14 @@ ul
 
 a
 {
+	color: #073cc1;
 	text-decoration: none;
 	cursor: pointer;
 }
 
 a:hover
 {
+	color: #0000FF;
 	text-decoration: underline;
 }
 
