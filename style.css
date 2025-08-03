@@ -12,7 +12,7 @@ body
 	color: #566779;
 }
 
-/* Header */
+/* Header Styling */
 header
 {
 	text-align: center;
@@ -32,7 +32,7 @@ header p
 	margin: 0.5rem 0 0;
 }
 
-/* Navigation */
+/* Navigation Styling */
 nav
 {
 	display: flex;
@@ -56,7 +56,7 @@ nav a:hover
 	text-decoration: underline;
 }
 
-/* Main Content */
+/* Main Content Styling */
 main
 {
 	padding: 1rem;
@@ -95,7 +95,7 @@ a:hover
 	text-decoration: underline;
 }
 
-/* Footer */
+/* Footer Styling */
 footer
 {
 	text-align: center;
